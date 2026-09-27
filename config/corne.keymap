@@ -22,7 +22,7 @@
 
 / {
     chosen {
-        zmk,matrix-transform = &five_column_transform;
+        zmk,physical-layout = &foostan_corne_5col_layout;
     };
 
     behaviors {
@@ -114,4 +114,6 @@
             >;
         };
     };
+/*
+ * Corne (3x5+3) — QWERTY firmware layer (Colemak applied at OS level)
 };
