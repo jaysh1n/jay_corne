@@ -114,6 +114,4 @@
             >;
         };
     };
-/*
- * Corne (3x5+3) — QWERTY firmware layer (Colemak applied at OS level)
 };
